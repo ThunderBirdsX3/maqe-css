@@ -1,0 +1,1 @@
+## MAQE Homework Challenge - CSS StylingTime: 30 minutes recommended.Recreate the following reference image in HTML and CSS as closely as possible. You can use any markup, styles and layout method necessary.<img src="https://maqe.github.io/img/styling-2022.png" alt="MAQE Homework Challenge - CSS Styling">
